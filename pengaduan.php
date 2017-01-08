@@ -38,8 +38,7 @@
                 </div>
               </form>   
             </div>
-        
+          </div>
         </div>
-      </div>
     </div>
   </section><!--/#about-us-->

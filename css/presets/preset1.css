@@ -1,3 +1,4 @@
+a,
 #home-slider .caption h1 span, 
 #twitter-carousel .item span, 
 #footer .footer-bottom, 
@@ -9,10 +10,6 @@
   color: #e9ef40;
 }
 
-a
-{
-	color:blue;	
-}
 
 .btn.btn-primary:hover,
 .caption .btn-start:hover,

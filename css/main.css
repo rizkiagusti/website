@@ -738,7 +738,7 @@ tfolio .folio-item:hover .folio-image {
 }
 
 #team .img-responsive {
-  width: 100%;
+  width: 10%;
 }
 
 .member-info h3 {
@@ -975,6 +975,7 @@ tfolio .folio-item:hover .folio-image {
 
 .entry-header h3 a {
   line-height: 30px;
+  color: blue;
 }
 
 .entry-header .date, 
